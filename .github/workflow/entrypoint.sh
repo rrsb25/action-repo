@@ -1,0 +1,1 @@
+echo "SAFE: running trusted code"

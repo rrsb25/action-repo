@@ -1,0 +1,5 @@
+name: Demo Action
+runs:
+  using: "composite"
+  steps:
+    - run: bash entrypoint.sh
