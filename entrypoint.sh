@@ -1,1 +1,1 @@
-"echo MALICIOUS: exfiltrating data" 
+echo "MALICIOUS: exfiltrating data" 
