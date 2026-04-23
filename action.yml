@@ -2,6 +2,6 @@ name: Demo Action
 runs:
   using: "composite"
   steps:
-    - run: bash entrypoint.sh
+    - run: bash ${{ github.action_path }}/entrypoint.sh
       shell: bash
     #Prueba
