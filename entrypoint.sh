@@ -1,1 +1,1 @@
-echo "SAFE: running trusted code"
+"echo MALICIOUS: exfiltrating data" 
